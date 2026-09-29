@@ -50,6 +50,21 @@ public class Main{
         //----------------------------------------------------------------------------------------        
 
         System.out.println(peon1n);
+        System.out.println(reyN);
+        System.out.println(reinaN);
+        System.out.println(caballo1n);
+        System.out.println(torre1n);
+        System.out.println(alfil1n);
+    
+        System.out.println("-----------------------------------------------------------------------------------------");
+        System.out.println(peon1b);
+        System.out.println(reyB);
+        System.out.println(reinaB);
+        System.out.println(caballo1b);
+        System.out.println(torre1b);
+        System.out.println(alfil1b);
+        //-----------------------------------------------------------------------------------------
         tablero1.MostrarTablero();
+
     }
 } 
